@@ -72,4 +72,8 @@ The best-performing model is selected based on evaluation metrics.
 
 ## 👩‍💻 Author
 Apurva Prasad  
-B.Tech CSE | Machine Learning Enthusiast
+Surina Pradhan
+Harsh Tekriwal
+Abhishek Kumar
+Romit Raj
+Vineet Singh
