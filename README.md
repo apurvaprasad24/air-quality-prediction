@@ -30,7 +30,7 @@ Machine Learning models are applied to analyze patterns in air pollution and gen
 Due to size limitations, the dataset is hosted externally.
 
 🔗 Download here:  
-PASTE_YOUR_GOOGLE_DRIVE_LINK_HERE
+https://drive.google.com/file/d/1WhGcaaXoSK8GLM3t_emRGVfYOhe3EOkK/view?usp=drive_link 
 
 After downloading, place the dataset file inside the `data/` folder before running the notebook.
 
