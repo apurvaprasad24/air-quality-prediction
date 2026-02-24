@@ -72,8 +72,8 @@ The best-performing model is selected based on evaluation metrics.
 
 ## 👩‍💻 Authors
 Apurva Prasad  
-Surina Pradhan
-Harsh Tekriwal
-Abhishek Kumar
-Romit Raj
-Vineet Singh
+Surina Pradhan  
+Harsh Tekriwal   
+Abhishek Kumar   
+Romit Raj    
+Vineet Singh    
