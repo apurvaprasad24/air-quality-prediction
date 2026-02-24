@@ -70,7 +70,7 @@ The best-performing model is selected based on evaluation metrics.
 
 ---
 
-## 👩‍💻 Author
+## 👩‍💻 Authors
 Apurva Prasad  
 Surina Pradhan
 Harsh Tekriwal
